@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   gethub is very bad website
-  not viset gethub
+  not visIt gethub
 
 <!---
 SuRubgmi/SuRubgmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
